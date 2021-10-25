@@ -15,10 +15,10 @@
   1. run **./aubatch.<**
   2. type **‘h’** or **‘help’** or **‘?’** to open the help menu.
   3. run command to submit a job:
-      * #### run<job_name><time> <prio>
+      * #### run <job_name/time/priority>
   4. list command to display the status and other information about the data in the queue.
   5. test command the format is:
-      * #### test <benchmark><policy><num_of_jobs><arrival_rate><priority_levels><min_CPU_time><max_CPU_time>
+      * #### test <benchmark/policy/num_of_jobs/arrival_rate/priority_levels/min_CPU_time/max_CPU_time>
 
   
  ## The metrics used to evaluate the performance of the policies are:
